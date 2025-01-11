@@ -13,6 +13,9 @@ Built a Distributed, Durable, and Fault-Tolerant Task Scheduler that orchestrate
 ### Docstore: Document Store at PhonePe
 Designed an Object Store managing ~5B documents. You can find our war stories at [FOSDEM 2023](https://archive.fosdem.org/2023/schedule/event/sds_lessons_learnt_glusterfs/).
 
+## Personal Tech Blog
+I write about system design and distributed systems on my blog. If you're interested in scaling systems or handling distributed consensus, check out my articles at [snehasishroy.com](https://snehasishroy.com)
+
 ## 💼 Previous Chronicles
 
 ### Google (SWE3)
