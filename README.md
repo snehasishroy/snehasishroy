@@ -7,10 +7,10 @@ Currently leading the Storage pod at [PhonePe](https://www.phonepe.com/), where 
 
 ## ⚡ Projects That Keep Me Awake
 
-### Clockwork: Time Lord of Tasks
+### Clockwork: Distributed Job Scheduler at PhonePe
 Built a Distributed, Durable, and Fault-Tolerant Task Scheduler that orchestrates 2 billion daily jobs at PhonePe. Shared about it at our [tech blog](https://tech.phonepe.com/clockwork-the-backbone-of-phonepes-2-billion-daily-jobs).
 
-### Docstore: The Digital Library of Alexandria
+### Docstore: Document Store at PhonePe
 Designed an Object Store managing ~5B documents. You can find our war stories at [FOSDEM 2023](https://archive.fosdem.org/2023/schedule/event/sds_lessons_learnt_glusterfs/).
 
 ## 💼 Previous Chronicles
@@ -21,13 +21,13 @@ Led the Map Moderation Platform team, where I built a MapReduce Pipeline for ana
 ### Amazon (SDE2)
 Made shopping carts zoom faster (50ms @ p90) on the Tier1 Cart Team. Because every millisecond counts when you're panic-buying during sales!
 
-### Goldman Sachs 
+### Goldman Sachs (Technology Associate)
 Turbocharged Risk Infrastructure platforms by using In-Memory Relational Database. Turns out making financial systems faster is both challenging and rewarding (pun intended).
 
-### Morgan Stanley
+### Morgan Stanley (Technology Associate)
 Optimized Risk Infrastructure platforms by using an async framework, because making numbers go fast is fun when they represent billions of dollars! 📈
 
-## 🎓 Root Directory
+## Education
 Graduated from Indian Institute of Information Technology, Allahabad with B.Tech in IT (_Honours_) 
 
 ## 🤝 Ping Me!
