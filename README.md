@@ -41,6 +41,6 @@ Always excited to discuss:
 
 Let's connect on [LinkedIn](https://linkedin.com/in/snehasishroy)
 
-![Coding Dino](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+![Coding Dino](https://github.com/snehasishroy/snehasishroy/blob/main/dino.gif)
 
 _When this dino isn't running, that's when you know production is down_
