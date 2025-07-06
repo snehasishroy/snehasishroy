@@ -16,7 +16,7 @@ You can also go through the below podcast video in which I deep dive on the arch
 
 
 ### Docstore: Document Store at PhonePe
-Designed an Object Store managing ~5B documents. You can find our war stories at [FOSDEM 2023](https://archive.fosdem.org/2023/schedule/event/sds_lessons_learnt_glusterfs/).
+Designed an Object Store managing ~5 Billion documents. You can find our war stories at [FOSDEM 2023](https://archive.fosdem.org/2023/schedule/event/sds_lessons_learnt_glusterfs/).
 
 ### Star History of my most starred repo
 ![Alt text](https://api.star-history.com/svg?repos=snehasishroy/leetcode-companywise-interview-questions)
