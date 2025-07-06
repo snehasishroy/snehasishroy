@@ -13,6 +13,9 @@ Built a Distributed, Durable, and Fault-Tolerant Task Scheduler that orchestrate
 ### Docstore: Document Store at PhonePe
 Designed an Object Store managing ~5B documents. You can find our war stories at [FOSDEM 2023](https://archive.fosdem.org/2023/schedule/event/sds_lessons_learnt_glusterfs/).
 
+### Star History of my most starred repo
+![Alt text](https://api.star-history.com/svg?repos=snehasishroy/leetcode-companywise-interview-questions)
+
 ## Personal Tech Blog
 I write about system design and distributed systems on my blog. If you're interested in scaling systems or handling distributed consensus, check out my articles at [snehasishroy.com](https://snehasishroy.com)
 
@@ -41,6 +44,6 @@ Always excited to discuss:
 
 Let's connect on [LinkedIn](https://linkedin.com/in/snehasishroy)
 
+## P.S. If the dinosaur below isn't running, that's when you know production is down
 ![Coding Dino](https://github.com/snehasishroy/snehasishroy/blob/main/dino.gif)
 
-_When this dino isn't running, that's when you know production is down_
