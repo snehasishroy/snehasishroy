@@ -10,7 +10,7 @@ Currently leading the Storage pod at [PhonePe](https://www.phonepe.com/), where 
 ### Clockwork: Distributed Job Scheduler at PhonePe
 Built a Distributed, Durable, and Fault-Tolerant Task Scheduler that orchestrates 2 billion daily jobs at PhonePe. Shared about it at our [tech blog](https://tech.phonepe.com/clockwork-the-backbone-of-phonepes-2-billion-daily-jobs).
 
-You can also go through the below podcast video in which I deep dive on the architecture of Clockwork.
+You can also go through the below podcast [video](https://www.youtube.com/watch?v=sNrpve8X1-o) in which I deep dive on the architecture of Clockwork.
 
 [![Podcast](https://img.youtube.com/vi/sNrpve8X1-o/0.jpg)](https://www.youtube.com/watch?v=sNrpve8X1-o)
 
