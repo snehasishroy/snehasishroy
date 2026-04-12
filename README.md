@@ -1,14 +1,14 @@
 # 🚀 Hello World ! I'm Snehasish Roy
 
-Senior Software Engineer with a decade of turning coffee into code.
+Lead Engineer with a decade of turning coffee into code.
 
-## 🎯 What I'm Up To
-Currently leading the Storage pod at [PhonePe](https://www.phonepe.com/), where we're revolutionizing fintech in India. Previously commanded the Core Platform pod, because one technical challenge is never enough!
+## What do I do?
+Currently leading the Storage pod at [PhonePe](https://www.phonepe.com/), where we're revolutionizing fintech in India. Previously led the Scheduler Pod, because one technical challenge is never enough!
 
-## ⚡ Projects That Keep Me Awake
+## Projects That Keep Me Awake
 
 ### Clockwork: Distributed Job Scheduler at PhonePe
-Built a Distributed, Durable, and Fault-Tolerant Task Scheduler that orchestrates 2 billion daily jobs at PhonePe. Shared about it at our [tech blog](https://tech.phonepe.com/clockwork-the-backbone-of-phonepes-2-billion-daily-jobs).
+Built a Distributed, Durable, and Fault-Tolerant Task Scheduler that orchestrates 2 billion daily jobs at PhonePe. Read more at [PhonePe Tech Blog](https://tech.phonepe.com/clockwork-the-backbone-of-phonepes-2-billion-daily-jobs).
 
 You can also go through the below podcast [video](https://www.youtube.com/watch?v=sNrpve8X1-o) in which I deep dive on the architecture of Clockwork.
 
@@ -16,7 +16,7 @@ You can also go through the below podcast [video](https://www.youtube.com/watch?
 
 
 ### Docstore: Document Store at PhonePe
-Designed an Object Store managing ~5 Billion documents. You can find our war stories at [FOSDEM 2023](https://archive.fosdem.org/2023/schedule/event/sds_lessons_learnt_glusterfs/).
+Designed an Object Store managing ~7 Billion documents at Petabyte Scale. You can find our war stories at [FOSDEM 2023](https://archive.fosdem.org/2023/schedule/event/sds_lessons_learnt_glusterfs/).
 
 ### Star History of my most starred repo
 ![Alt text](https://api.star-history.com/svg?repos=snehasishroy/leetcode-companywise-interview-questions)
@@ -24,28 +24,25 @@ Designed an Object Store managing ~5 Billion documents. You can find our war sto
 ## Personal Tech Blog
 I write about system design and distributed systems on my blog. If you're interested in scaling systems or handling distributed consensus, check out my articles at [snehasishroy.com](https://snehasishroy.com)
 
-## 💼 Previous Chronicles
+## Experience
 
 ### Google (SWE3)
 Led the Map Moderation Platform team, where I built a MapReduce Pipeline for analyzing UGC moderation decisions. Think of it as keeping Google Maps clean and tidy!
 
 ### Amazon (SDE2)
-Made shopping carts zoom faster (50ms @ p90) on the Tier1 Cart Team. Because every millisecond counts when you're panic-buying during sales!
+Made shopping carts faster (50ms @ p90) on the Tier1 Cart Team. Because every millisecond counts when you're buying during sales!
 
 ### Goldman Sachs (Technology Associate)
-Turbocharged Risk Infrastructure platforms by using In-Memory Relational Database. Turns out making financial systems faster is both challenging and rewarding (pun intended).
+Turbocharged Risk Infrastructure platforms by using In-Memory Relational Database.
 
 ### Morgan Stanley (Technology Associate)
-Optimized Risk Infrastructure platforms by using an async framework, because making numbers go fast is fun when they represent billions of dollars! 📈
+Optimized Risk Infrastructure platforms by using an async read-transform-write framework.
 
 ## Education
 Graduated from Indian Institute of Information Technology, Allahabad with B.Tech in IT (_Honours_) 
 
-## 🤝 Ping Me!
-Always excited to discuss:
-- Distributed systems (and their distributed problems)
-- Scale challenges (both technical and coffee-based)
-- Why documentation is like vegetables - everyone knows it's good for you, but...
+## Ping Me!
+Always excited to discuss Distributed systems (and their distributed problems)
 
 Let's connect on [LinkedIn](https://linkedin.com/in/snehasishroy)
 
