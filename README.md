@@ -8,9 +8,12 @@ Currently leading the Storage pod at [PhonePe](https://www.phonepe.com/), where 
 ## Projects That Keep Me Awake
 
 ### Clockwork: Distributed Job Scheduler at PhonePe
-Built a Distributed, Durable, and Fault-Tolerant Task Scheduler that orchestrates 2 billion daily jobs at PhonePe. Read more at [PhonePe Tech Blog](https://tech.phonepe.com/clockwork-the-backbone-of-phonepes-2-billion-daily-jobs).
+Built a Distributed, Durable, and Fault-Tolerant Task Scheduler that orchestrates 3 billion daily jobs at PhonePe. Read more at [PhonePe Tech Blog](https://tech.phonepe.com/clockwork-the-backbone-of-phonepes-2-billion-daily-jobs).
 
-You can also go through the below podcast [video](https://www.youtube.com/watch?v=sNrpve8X1-o) in which I deep dive on the architecture of Clockwork.
+I gave the following public talks in which I deep dived on the architecture of Clockwork.
+1. [Acceldata Open Data Platform Meetup 11th July 2026](https://www.meetup.com/open-data-platform-and-data-observability-by-acceldata/events/315265254/)
+2. [HasGeek Platform Engineering Meetup 9th May 2026](https://www.youtube.com/watch?v=HDq1I_ZzzvQ)
+3. [Practical System Design Podcast 21st April 2024](https://www.youtube.com/watch?v=sNrpve8X1-o)
 
 [![Podcast](https://img.youtube.com/vi/sNrpve8X1-o/0.jpg)](https://www.youtube.com/watch?v=sNrpve8X1-o)
 
@@ -30,7 +33,7 @@ I write about system design and distributed systems on my blog. If you're intere
 Led the Map Moderation Platform team, where I built a MapReduce Pipeline for analyzing UGC moderation decisions. Think of it as keeping Google Maps clean and tidy!
 
 ### Amazon (SDE2)
-Made shopping carts faster (50ms @ p90) on the Tier1 Cart Team. Because every millisecond counts when you're buying during sales!
+Made shopping carts faster (50ms @ p90) in the Tier1 Cart Team. Because every millisecond counts when you're buying during sales!
 
 ### Goldman Sachs (Technology Associate)
 Turbocharged Risk Infrastructure platforms by using In-Memory Relational Database.
