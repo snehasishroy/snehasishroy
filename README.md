@@ -16,6 +16,8 @@ I gave the following public talks in which I deep dived on the architecture of C
 3. [Practical System Design Podcast 21st April 2024](https://www.youtube.com/watch?v=sNrpve8X1-o)
 
 [![Podcast](https://img.youtube.com/vi/sNrpve8X1-o/0.jpg)](https://www.youtube.com/watch?v=sNrpve8X1-o)
+[![Hasgeek](https://img.youtube.com/vi/HDq1I_ZzzvQ/0.jpg)](https://www.youtube.com/watch?v=HDq1I_ZzzvQ)
+
 
 
 ### Docstore: Document Store at PhonePe
